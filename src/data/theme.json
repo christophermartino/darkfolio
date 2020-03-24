@@ -1,17 +1,17 @@
 {
-  "site_name": "DPT",
-  "header_title": "Darkfolio Portfolio Theme",
-  "first_letter_only": true,
-  "email": "nichlas@itsnwa.com",
+  "site_name": "LookChris",
+  "header_title": "Christopher Martino",
+  "first_letter_only": false,
+  "email": "chris@lookchris.com",
   "social": [
     {
       "channel": "twitter",
-      "handle": "nichlaswa",
+      "handle": "mr_chris",
       "link_text": "tw"
     },
     {
       "channel": "instagram",
-      "handle": "its.nwa",
+      "handle": "christopherm00",
       "link_text": "ig"
     },
     {
